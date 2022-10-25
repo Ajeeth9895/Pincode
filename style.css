@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.details_area{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 1em;
+}
+
+.card-body{
+    background-color:lightblue;
+    border: 2px solid black;
+
+    
+}
+
+#title{
+    display: flex;
+    justify-content: center;
+    margin-top: 1em;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-weight: 500;
+    font-size: 1.4em;
+    color:rgb(233, 93, 93);
+   
+}
