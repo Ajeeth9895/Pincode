@@ -1,1 +1,1 @@
-This website use to get your pincode area details
+This website is use to get your pincode area details
